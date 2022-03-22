@@ -1,12 +1,3 @@
-// -*-coding:utf-8 -*-
-// -------------------------------------------------------------------------
-// Path          - DiscordBot/Structures/Handlers/commands.js
-// Git           - https://github.com/The-Repo-Club
-// Author        - The-Repo-Club [wayne6324@gmail.com]
-// Start On      - Wed 23 February 2022, 12:04:54 pm (GMT)
-// Modified On   - Wed 23 February 2022, 12:16:17 pm (GMT)
-// -------------------------------------------------------------------------
-
 const { Perms } = require("../Validation/permissions");
 const { Client } = require("discord.js");
 const { glob } = require('glob')

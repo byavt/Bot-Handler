@@ -1,1 +1,1 @@
-new(require("./flyer"))().setup();
+new(require("./bot"))().setup();

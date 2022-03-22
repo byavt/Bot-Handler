@@ -2,7 +2,10 @@
   "dependencies": {
     "ascii-table": "^0.0.9",
     "chalk": "^5.0.1",
+    "discord.js": "^13.1.0",
     "glob": "^7.2.0",
-    "promisify": "^0.0.3"
+    "mongoose": "^6.2.7",
+    "promisify": "^0.0.3",
+    "util": "^0.12.4"
   }
 }
